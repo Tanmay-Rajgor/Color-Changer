@@ -1,0 +1,34 @@
+.nav-center{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    
+}
+#logo{
+    position: absolute;
+    left: 500px;
+    top: 25px;
+    color: whitesmoke;
+}
+
+li{
+    position: relative;
+    display: inline;
+    top: 30px;
+    left: 800px;
+}
+
+li a{
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.background-color{
+    text-align: center;
+    position: relative;
+    top: 300px;
+}
+
+
+
